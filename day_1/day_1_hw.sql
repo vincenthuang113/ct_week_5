@@ -58,4 +58,3 @@ from film
 group by rating
 order by movie_count desc
 limit 1;
-
